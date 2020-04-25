@@ -16,6 +16,21 @@
 
   
 
+###### 폴더 구성
+
+```python
+.
+├─1.Flask Web Framework
+│  ├─Project & Example (프로젝트 및 예제)
+│  └─Theorem (정리)
+└─2.Django Web Framework
+    ├─Project & Example (프로젝트 및 예제)
+    └─Theorem (정리)
+
+```
+
+
+
 ###### 목표는 무엇인가?
 
 * 2020-04-25 (첫 목표 결정)
